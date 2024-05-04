@@ -1,0 +1,175 @@
+body {
+
+    background-color: rgb(2, 74, 2);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.imagen-titulo {
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.titulo {
+
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: black;
+    border-radius: 30%;
+    border-style: solid;
+    font-size: 40px
+
+}
+
+.eslogan-titulo {
+
+    display: flex;
+    justify-content: center;
+    background-color: orange;
+    color: aliceblue;
+    font-size: 30px;
+
+}
+
+.menu-navegacion {
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.menu-centro {
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.menu-centro li {
+
+    background-color: white;
+    margin: 0 20px;
+}
+
+p {
+    font-size: 20px;
+    color: white;
+}
+
+.servicios {
+
+    background-color: black;
+    color: white;
+}
+
+
+.Proyectos{
+
+    background-color: black;
+    color: white;
+
+}
+.materiales-titulo {
+
+    background-color: black;
+    color: white;
+
+}
+
+.galeria-proyectos {
+
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    
+
+}
+
+.galeria-materiales {
+
+    display: flex;
+    justify-content: center;
+    width: 1100px;
+    height: 280px;
+
+}
+
+.materiales-sub {
+
+    background-color: black;
+    color: white;
+
+}
+
+.nosotros {
+
+    background-color: black;
+    color: white;
+
+
+}
+
+.experiencia {
+
+    background-color: black;
+    color: white;
+
+}
+
+.testimonios {
+
+    background-color: black;
+    color: white;
+
+}
+
+.cliente-1 {
+
+    background-color: violet;
+    color: black;
+
+}
+
+.cliente-2 {
+
+    background-color: violet;
+    color: black;
+
+}
+
+.final {
+
+    background-color: aqua;
+}
+
+.titulo-final {
+
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+
+
+
+.titulo-redes {
+
+    display: flex;  
+    justify-content: center;
+}
+
+.redes {
+
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+
+
+
+
+
+
